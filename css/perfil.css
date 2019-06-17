@@ -1,0 +1,48 @@
+div .img_perfil{
+  border-radius: 10px;
+  padding: 6px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px #D8D8D8;
+}
+.parrafo {
+  fontfamily:Arial, Helvetica, Sans-serif, "Myriad Pro";
+  font-size: 110%;
+  font-weight: normal;
+  line-height: 30px;
+  text-decoration: none;
+  letter-spacing: normal;
+  word-spacing: 5px;
+  float: none;
+  margin-left: 10px;
+  margin-top: 20px;
+  text-align: justify;
+  color:#343a40;
+}
+
+.mejoropcion{
+  clear: both;
+  text-align: center;
+  color: #007bff;
+}
+.imgserv{
+  float: left;
+  margin-right: 40px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+.rf{
+  font-family: Copperplate Gothic Light;
+}
+
+.titulofin{
+  font-family: Copperplate Gothic Light;
+  text-align: center;
+  color: #343a40;
+}
+
+.slogan{
+  font-family: Arial, Helvetica, Sans-serif, "Myriad Pro";
+  color:#007bff;
+  text-shadow: 2px 2px 2px #D8D8D8;
+  font-size: 80%;
+}

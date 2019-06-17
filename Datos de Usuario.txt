@@ -1,0 +1,8 @@
+Usuario		Contraseña		Nombre Usuario		Correo				Rol
+iromero		i1r2o3m4e5r6o7		Irma Romero		iromero3981@hotmail.com		Administrador
+igomez		i1v2e3t4h5		Iveth Gomez		igomez@gmail.com		Administrador
+isandoval	i1s2a3n4d5o6v7a8l9	Israel Sandoval		isandoval@gmail.com		Arrendador
+jmendez		j1m2e3n4d5e6z7		Jesus Mendez		jmendez@gmail.com		Arrendador
+vorozco		v1o2r3o4z5c6o7		Veronica Orozco		vorozco@gmail.com		Arrendador
+cvaldes		c1v2a3l4d5e6s7		Catalina Valdes		cvaldes@gmail.com		Arrendador
+
